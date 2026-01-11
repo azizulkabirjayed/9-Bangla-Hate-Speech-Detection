@@ -21,5 +21,5 @@ The project demo video is available to watch here: <a href="https://youtu.be/TGX
 
 # Contributors
 * Sajjad Hossain Pappu (sajjad.hasan.pappu@g.bracu.ac.bd)
-*YASIR (yasir@g.bracu.ac.bd)
+* YASIR (yasir@g.bracu.ac.bd)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
