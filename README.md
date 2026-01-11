@@ -5,7 +5,8 @@ This project was developed as part of the CSE427(Machine Learning) course projec
 
 # Built With
 * Python
-* TesnforFlow and Keras
+* TesnforFlow
+* Keras
 * NLTK
 * Pandas
 * NumPy 
@@ -19,8 +20,6 @@ The project demo video is available to watch here: <a href="https://youtu.be/TGX
 
 
 # Contributors
-* Sajjad Hossain Pappu
-[@email](sajjad.hasan.pappu@g.bracu.ac.bd)
-*YASIR
-[@email](yasir@g.bracu.ac.bd)
+* Sajjad Hossain Pappu (sajjad.hasan.pappu@g.bracu.ac.bd)
+*YASIR (yasir@g.bracu.ac.bd)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
