@@ -14,7 +14,7 @@ This project was developed as part of the CSE427(Machine Learning) course projec
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Project Demo Video
-The project demo video is available to watch here: <a href="https://youtu.be/TGXOLqOo2kE?si=k3HHQQ_JSrp2_5yr">click here</a>.
+The project demo video is available to watch here: <a href="https://youtu.be/q8EG_TDDddA?si=9QYti-qCqOcdF4Wu">click here</a>.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
