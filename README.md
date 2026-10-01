@@ -29,6 +29,7 @@ This repository implements a **multi-class Bangla hate speech detection** pipeli
   | Religious | 502 | 14.69% |
   | Gender Abusive | 316 | 9.25% |
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # Preprocessing Pipeline
 
 | Step | Details |
