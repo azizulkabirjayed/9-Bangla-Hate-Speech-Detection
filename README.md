@@ -137,9 +137,9 @@ All metrics use **macro** averaging. Evaluated on the 20% held-out test set (684
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Sample Visualizations
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/tree/f9e93baba491900add50e996fd2bb92b944e93a1/9/1.png)
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/tree/f9e93baba491900add50e996fd2bb92b944e93a1/9/2.png)
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/tree/f9e93baba491900add50e996fd2bb92b944e93a1/9/3.png)
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/f9e93baba491900add50e996fd2bb92b944e93a1/9/1.png)
+![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/f9e93baba491900add50e996fd2bb92b944e93a1/9/2.png)
+![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/f9e93baba491900add50e996fd2bb92b944e93a1/9/3.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
