@@ -131,14 +131,15 @@ All metrics use **macro** averaging. Evaluated on the 20% held-out test set (684
    The dataset and GloVe embeddings are automatically downloaded when the notebook runs.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-# Project Demo Video
-The project demo video is available to watch here: <a href="https://youtu.be/q8EG_TDDddA?si=9QYti-qCqOcdF4Wu">click here</a>.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 # Contributors
 * Sajjad Hossain Pappu (sajjad.hasan.pappu@g.bracu.ac.bd)
 * YASIR (yasir@g.bracu.ac.bd)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# Sample Visualizations
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/tree/f9e93baba491900add50e996fd2bb92b944e93a1/9/1.png)
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/tree/f9e93baba491900add50e996fd2bb92b944e93a1/9/2.png)
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/tree/f9e93baba491900add50e996fd2bb92b944e93a1/9/3.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
